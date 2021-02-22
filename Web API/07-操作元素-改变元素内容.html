@@ -1,0 +1,52 @@
+<!--innerText和innerHTML  改变元素（文字）内容-->
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <button>显示当前系统时间</button>
+    <div>当前时间</div>
+    <text>lalala</text>
+    <p>123</p>
+    <script>
+        var btn = document.querySelector('button');
+        var div= document.querySelector('div');
+        var text= document.querySelector('text');
+
+
+        btn.onclick = function (){
+
+                div.innerText = getDate();
+
+        }
+        function getDate(){
+            var date = new Date();
+            //写一个返回几几年 几月 几日 星期几
+            var year = date.getFullYear();
+            var month = date.getMonth()+1;
+            var dates = date.getDate();
+            var arr = ['星期日','星期一','星期二','星期三','星期四','星期五','星期六'];
+            var day = date.getDay();
+            return '今天是：'+ year + '年' + month + '月' + dates + '日' + arr[day];
+        }
+        //元素可以不用添加事件  直接显示修改结果
+        var p = document.querySelector('p');
+        p.innerText = 'wuwuwu';
+
+
+        //innnerText和innerHTML的区别
+        //1. innerText  不识别html标签  去除空格和换行    innerHTML  识别html标签 W3C标准  保留空格和换行
+        text.innerText = '<strong>今天是</strong>2号';  //今天是这三个字在浏览器中不显示加粗，也就是<strong>标签不起作用
+        // text.innerHTML = '<strong>今天是</strong>2号';   //HTML标签起作用了，显示加粗
+        //2. 这两个属性是可读写的  可以获取元素里面的内容
+        console.log(div.innerText);
+
+    </script>
+
+</body>
+</html>

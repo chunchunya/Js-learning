@@ -1,3 +1,4 @@
+<!--document.getElementsByClassName('类名');根据类名返回元素集合-->
 <!doctype html>
 <html lang="en">
 <head>
@@ -8,6 +9,32 @@
     <title>Document</title>
 </head>
 <body>
+    <div class="box">盒子</div>
+    <div class="box">盒子</div>
+    <div id="nav">
+        <ul>
+            <li>首页</li>
+            <li>产品</li>
+        </ul>
+    </div>
+    <script>
+        //1.getElementsByClassName('类名');    根据类名返回元素集合
+        var box = document.getElementsByClassName('box');
+        console.log(box)
+        //2.querySelector 返回指定选择器的第一个元素对象 切记 里面的选择器需要加符号  .box   #nav
+        var firstBox = document.querySelector('.box');  //类选择器要加个点.
+        console.log(firstBox);
+        //id选择器要加#
+        var nav = document.querySelector('#nav');
+        console.log(nav);
+        var li = document.querySelector('li');
+        console.log(li);
+        //3.querySelectorAll()返回指定选择器的所有元素对象集合
+        var allBox = document.querySelectorAll('.box');
+        console.log(allBox);
 
+
+
+    </script>
 </body>
 </html>
