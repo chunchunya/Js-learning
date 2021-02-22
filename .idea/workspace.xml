@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7893710-d314-496a-aee8-b09c6ba57cd4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1lHenJopg1L7VUF4qO2BsPZbH2c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.复杂类型数据传参.js">
+    <configuration name="Math对象随机数方法.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/对象/Math对象随机数方法.js" working-dir="$PROJECT_DIR$/对象">
+      <method v="2" />
+    </configuration>
+    <configuration name="内置对象.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/对象/内置对象.js" working-dir="$PROJECT_DIR$/对象">
+      <method v="2" />
+    </configuration>
+    <configuration name="对象的创建.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/对象/对象的创建.js" working-dir="$PROJECT_DIR$/对象">
+      <method v="2" />
+    </configuration>
+    <configuration name="复杂类型数据传参.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/复杂类型数据传参.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="函数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3.语言基础/函数.js" working-dir="$PROJECT_DIR$/3.语言基础">
+      <method v="2" />
+    </configuration>
+    <configuration name="语句.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3.语言基础/语句.js" working-dir="$PROJECT_DIR$/3.语言基础">
+      <method v="2" />
+    </configuration>
+    <configuration name="堆的创建.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/堆/堆的创建.js" working-dir="$PROJECT_DIR$/堆">
+      <method v="2" />
+    </configuration>
+    <configuration name="执行上下文与作用域.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/执行上下文与作用域.js" working-dir="$PROJECT_DIR$/4.作用域">
+      <method v="2" />
+    </configuration>
+    <configuration name="执行上下文与作用域.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/执行上下文与作用域.js" working-dir="$PROJECT_DIR$/4.作用域">
+      <method v="2" />
+    </configuration>
+    <configuration name="原始值与引用值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/原始值与引用值.js" working-dir="$PROJECT_DIR$/4.作用域">
+      <method v="2" />
+    </configuration>
+    <configuration name="原始值与引用值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/原始值与引用值.js" working-dir="$PROJECT_DIR$/4.作用域">
+      <method v="2" />
+    </configuration>
+    <configuration name="原始值与引用值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/原始值与引用值.js" working-dir="$PROJECT_DIR$/4.作用域">
+      <method v="2" />
+    </configuration>
+    <configuration name="语句.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3.语言基础/语句.js" working-dir="$PROJECT_DIR$/3.语言基础">
+      <method v="2" />
+    </configuration>
+    <configuration name="var.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/作用域/var.js" working-dir="$PROJECT_DIR$/作用域">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.复杂类型数据传参.js" />
+        <item itemvalue="Node.js.Math对象随机数方法.js" />
+        <item itemvalue="Node.js.内置对象.js" />
+        <item itemvalue="Node.js.对象的创建.js" />
+        <item itemvalue="Node.js.var.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7893710-d314-496a-aee8-b09c6ba57cd4" name="Default Changelist" comment="" />
+      <created>1607258612547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607258612547</updated>
+      <workItem from="1607258614118" duration="4057000" />
+      <workItem from="1607605673934" duration="2832000" />
+      <workItem from="1607689796536" duration="3865000" />
+      <workItem from="1607866957552" duration="1597000" />
+      <workItem from="1607905716718" duration="6860000" />
+      <workItem from="1607993355657" duration="3971000" />
+      <workItem from="1608080839617" duration="2154000" />
+      <workItem from="1608192242124" duration="5265000" />
+      <workItem from="1608267289123" duration="4055000" />
+      <workItem from="1608349090135" duration="832000" />
+      <workItem from="1608438156560" duration="605000" />
+      <workItem from="1608724121180" duration="601000" />
+      <workItem from="1610280488335" duration="615000" />
+      <workItem from="1612171659451" duration="2030000" />
+      <workItem from="1613806649437" duration="4879000" />
+      <workItem from="1613873108328" duration="19851000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
