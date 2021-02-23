@@ -1,0 +1,68 @@
+<!--一个div里面套了一个输入框设置类型为password 然后将显示与隐藏的图标定位到具体位置   绝对定位中使用子绝父相-->
+<!--核心思路-->
+<!--
+核心思路：点击眼睛按钮，把密码框类型改为文本框就可以看见里面的密码
+        一个按钮两个状态，点击一次，切换文本框，继续点击一次切换为密码框
+算法：利用一个falg变量，来判断flag值，如果是1就切换为文本框，flag设置为0，如果是0就切换为密码框，flag设置为1     以后只要遇到一个按钮可以点多次的话，就用这个flag变量来做
+-->
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        .box{
+            position: relative;
+            width: 400px;
+            border-bottom: 1px solid #ccc;
+            margin: 100px auto;
+        }
+        .box input{
+            width: 370px;
+            height:30px;
+            border: 0;
+            outline: none;
+
+        }
+        .box img{
+            position: absolute;
+            top: 2px;
+            right: 2px;
+            width: 24px;
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <label for="">
+            <img src="./img/隐藏.png" id="eye">
+        </label>
+        <input type="password" name="" id="">
+    </div>
+    <script>
+        //获取元素
+        var flag = true;
+        var img = document.getElementById('eye');
+        var input = document.querySelector('input');
+        //绑定事件 处理程序
+        img.onclick = function(){
+            //点击一次后 flag一定要变化
+            if(flag === true){
+                input.type = 'text';
+                this.src = './img/显示.png';
+                flag = false;
+             }else{
+                input.type = 'password';
+                this.src = './img/隐藏.png';
+                flag = true;
+            }
+            console.log(flag);
+        }
+
+    </script>
+
+</body>
+</html>
