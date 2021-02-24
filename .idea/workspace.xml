@@ -35,6 +35,15 @@
     <configuration name="内置对象.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/对象/内置对象.js" working-dir="$PROJECT_DIR$/对象">
       <method v="2" />
     </configuration>
+    <configuration name="函数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3.语言基础/函数.js" working-dir="$PROJECT_DIR$/3.语言基础">
+      <method v="2" />
+    </configuration>
+    <configuration name="语句.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3.语言基础/语句.js" working-dir="$PROJECT_DIR$/3.语言基础">
+      <method v="2" />
+    </configuration>
+    <configuration name="堆的创建.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/堆/堆的创建.js" working-dir="$PROJECT_DIR$/堆">
+      <method v="2" />
+    </configuration>
     <configuration name="执行上下文与作用域.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/执行上下文与作用域.js" working-dir="$PROJECT_DIR$/4.作用域">
       <method v="2" />
     </configuration>
@@ -57,15 +66,6 @@
       <method v="2" />
     </configuration>
     <configuration name="复杂类型数据传参.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/复杂类型数据传参.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="函数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3.语言基础/函数.js" working-dir="$PROJECT_DIR$/3.语言基础">
-      <method v="2" />
-    </configuration>
-    <configuration name="语句.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3.语言基础/语句.js" working-dir="$PROJECT_DIR$/3.语言基础">
-      <method v="2" />
-    </configuration>
-    <configuration name="堆的创建.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/堆/堆的创建.js" working-dir="$PROJECT_DIR$/堆">
       <method v="2" />
     </configuration>
     <configuration name="var.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/作用域/var.js" working-dir="$PROJECT_DIR$/作用域">
@@ -104,7 +104,8 @@
       <workItem from="1613806649437" duration="4879000" />
       <workItem from="1613873108328" duration="19851000" />
       <workItem from="1614008242350" duration="155000" />
-      <workItem from="1614083430297" duration="8299000" />
+      <workItem from="1614083430297" duration="10441000" />
+      <workItem from="1614131181159" duration="13158000" />
     </task>
     <servers />
   </component>

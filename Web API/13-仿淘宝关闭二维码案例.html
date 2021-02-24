@@ -1,0 +1,46 @@
+<!--仿淘宝  点击叉号二维码图片消失-->
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        div{
+            position: relative;
+            width: 200px;
+            height: 200px;
+            border: 1px;
+            margin: 100px auto;
+        }
+        .dele{
+            position: absolute;
+            width: 20px;
+            height: 20px;
+            left:-20px;
+            top:0px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <img src="./img/删除筛选项.png" class="dele">
+        <img src="./img/二维码.jpg" class="saomiao">
+    </div>
+    <script>
+        var div = document.querySelector('div');
+        //这里注意返回的是一个元素伪数组，需要加上索引来确定需要的是哪一个元素
+        var dele = document.getElementsByTagName('img')[0];
+        console.log(dele);
+        console.log(dele[0]);
+
+        dele.onclick = function (){
+            div.style.display = 'none';
+        }
+
+    </script>
+
+</body>
+</html>

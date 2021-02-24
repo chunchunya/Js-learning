@@ -1,0 +1,47 @@
+<!--element.style   行内样式-->
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        .first{
+            width: 100px;
+            height: 100px;
+            background-color: red;
+        }
+        .change{
+            width:200px;
+            height: 200px;
+            background-color: black;
+        }
+    </style>
+</head>
+<body>
+    <div class="first"></div>
+    <script>
+        //注意：
+        //1.Js里面的样式采取驼峰命名法  比如fontSize\backgroundColor
+        //2.Js修改style样式操作，产生的是行内样式，js行内样式权重比较css内嵌样式权重高
+        //3.使用element.style 获得修改元素样式 如果样式比较少 或者 功能简单的情况下使用
+
+        //1.获取元素
+        var div = document.querySelector('div');
+        //2.注册事件 处理程序
+        div.onclick = function(){
+            // //div.style里面的属性  采取驼峰命名法
+            // this.style.backgroundColor = 'purple';
+            // this.style.width = '250px';
+
+            //4.使用element.className 可以修改元素的样式  适合于样式较多或者功能复杂的情况
+            //5.使用此方法会直接覆盖掉原始的类的样式  如果想要保留原先的类名，我们可以使用多类名选择器
+            // this.className = 'change';
+            this.className = 'first change'
+        }
+    </script>
+
+</body>
+</html>

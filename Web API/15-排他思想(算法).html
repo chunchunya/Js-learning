@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <button>按钮1</button>
+    <button>按钮2</button>
+    <button>按钮3</button>
+    <button>按钮4</button>
+    <button>按钮5</button>
+    <script>
+        //1.获取所有按钮元素
+        var btns = document.getElementsByTagName('button');
+        for(var i = 0;i < btns.length; i++){
+            btns[i].onclick = function(){
+                for(var i = 0;i<btns.length;i++){
+                    //1.先把所有的按钮背景颜色都去掉
+                    btns[i].style.backgroundColor = '';
+                }
+                //2.让当前元素背景颜色为pink
+                this.style.backgroundColor = 'pink';
+            }
+        }
+    </script>
+
+
+</body>
+</html>
