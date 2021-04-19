@@ -19,12 +19,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Web API/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS/img" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Code_project~~~~~~~\Js Code\Js-learning\CSS\img" />
       <recent name="E:\Code_project~~~~~~~\Js Code\Js-learning\Web API\img" />
     </key>
   </component>
@@ -33,6 +34,9 @@
       <method v="2" />
     </configuration>
     <configuration name="内置对象.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/对象/内置对象.js" working-dir="$PROJECT_DIR$/对象">
+      <method v="2" />
+    </configuration>
+    <configuration name="复杂类型数据传参.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/复杂类型数据传参.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="函数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3.语言基础/函数.js" working-dir="$PROJECT_DIR$/3.语言基础">
@@ -63,9 +67,6 @@
       <method v="2" />
     </configuration>
     <configuration name="对象的创建.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/对象/对象的创建.js" working-dir="$PROJECT_DIR$/对象">
-      <method v="2" />
-    </configuration>
-    <configuration name="复杂类型数据传参.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/复杂类型数据传参.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="var.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/作用域/var.js" working-dir="$PROJECT_DIR$/作用域">
@@ -105,7 +106,11 @@
       <workItem from="1613873108328" duration="19851000" />
       <workItem from="1614008242350" duration="155000" />
       <workItem from="1614083430297" duration="10441000" />
-      <workItem from="1614131181159" duration="13158000" />
+      <workItem from="1614131181159" duration="13975000" />
+      <workItem from="1615029496975" duration="5244000" />
+      <workItem from="1615291222699" duration="539000" />
+      <workItem from="1618623701232" duration="3085000" />
+      <workItem from="1618713920449" duration="4242000" />
     </task>
     <servers />
   </component>
