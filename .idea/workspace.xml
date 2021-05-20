@@ -36,6 +36,15 @@
     <configuration name="内置对象.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/对象/内置对象.js" working-dir="$PROJECT_DIR$/对象">
       <method v="2" />
     </configuration>
+    <configuration name="执行上下文与作用域.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/执行上下文与作用域.js" working-dir="$PROJECT_DIR$/4.作用域">
+      <method v="2" />
+    </configuration>
+    <configuration name="原始值与引用值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/原始值与引用值.js" working-dir="$PROJECT_DIR$/4.作用域">
+      <method v="2" />
+    </configuration>
+    <configuration name="原始值与引用值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/原始值与引用值.js" working-dir="$PROJECT_DIR$/4.作用域">
+      <method v="2" />
+    </configuration>
     <configuration name="原始值与引用值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/原始值与引用值.js" working-dir="$PROJECT_DIR$/4.作用域">
       <method v="2" />
     </configuration>
@@ -58,15 +67,6 @@
       <method v="2" />
     </configuration>
     <configuration name="执行上下文与作用域.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/执行上下文与作用域.js" working-dir="$PROJECT_DIR$/4.作用域">
-      <method v="2" />
-    </configuration>
-    <configuration name="执行上下文与作用域.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/执行上下文与作用域.js" working-dir="$PROJECT_DIR$/4.作用域">
-      <method v="2" />
-    </configuration>
-    <configuration name="原始值与引用值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/原始值与引用值.js" working-dir="$PROJECT_DIR$/4.作用域">
-      <method v="2" />
-    </configuration>
-    <configuration name="原始值与引用值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/原始值与引用值.js" working-dir="$PROJECT_DIR$/4.作用域">
       <method v="2" />
     </configuration>
     <configuration name="var.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/作用域/var.js" working-dir="$PROJECT_DIR$/作用域">
@@ -116,6 +116,7 @@
       <workItem from="1618623701232" duration="3085000" />
       <workItem from="1618713920449" duration="4242000" />
       <workItem from="1620994014966" duration="265000" />
+      <workItem from="1621473466313" duration="350000" />
     </task>
     <servers />
   </component>
