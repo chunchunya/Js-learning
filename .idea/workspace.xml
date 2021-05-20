@@ -29,11 +29,20 @@
       <recent name="E:\Code_project~~~~~~~\Js Code\Js-learning\Web API\img" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Math对象随机数方法.js">
+  <component name="RunManager" selected="Node.js.var、const、let.js">
     <configuration name="Math对象随机数方法.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/对象/Math对象随机数方法.js" working-dir="$PROJECT_DIR$/对象">
       <method v="2" />
     </configuration>
     <configuration name="内置对象.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/对象/内置对象.js" working-dir="$PROJECT_DIR$/对象">
+      <method v="2" />
+    </configuration>
+    <configuration name="原始值与引用值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/原始值与引用值.js" working-dir="$PROJECT_DIR$/4.作用域">
+      <method v="2" />
+    </configuration>
+    <configuration name="语句.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3.语言基础/语句.js" working-dir="$PROJECT_DIR$/3.语言基础">
+      <method v="2" />
+    </configuration>
+    <configuration name="对象的创建.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/对象/对象的创建.js" working-dir="$PROJECT_DIR$/对象">
       <method v="2" />
     </configuration>
     <configuration name="复杂类型数据传参.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/复杂类型数据传参.js" working-dir="$PROJECT_DIR$">
@@ -60,20 +69,15 @@
     <configuration name="原始值与引用值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/原始值与引用值.js" working-dir="$PROJECT_DIR$/4.作用域">
       <method v="2" />
     </configuration>
-    <configuration name="原始值与引用值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/原始值与引用值.js" working-dir="$PROJECT_DIR$/4.作用域">
-      <method v="2" />
-    </configuration>
-    <configuration name="语句.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3.语言基础/语句.js" working-dir="$PROJECT_DIR$/3.语言基础">
-      <method v="2" />
-    </configuration>
-    <configuration name="对象的创建.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/对象/对象的创建.js" working-dir="$PROJECT_DIR$/对象">
-      <method v="2" />
-    </configuration>
     <configuration name="var.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/作用域/var.js" working-dir="$PROJECT_DIR$/作用域">
+      <method v="2" />
+    </configuration>
+    <configuration name="var、const、let.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/var、const、let.js" working-dir="$PROJECT_DIR$/4.作用域">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.var、const、let.js" />
         <item itemvalue="Node.js.Math对象随机数方法.js" />
         <item itemvalue="Node.js.内置对象.js" />
         <item itemvalue="Node.js.var.js" />
@@ -111,6 +115,7 @@
       <workItem from="1615291222699" duration="539000" />
       <workItem from="1618623701232" duration="3085000" />
       <workItem from="1618713920449" duration="4242000" />
+      <workItem from="1620994014966" duration="265000" />
     </task>
     <servers />
   </component>
