@@ -19,6 +19,5 @@ function quickSort(arr,left,right){
     quickSort(arr,j+1,right);
     return arr;
 }
-
 let newArray = quickSort(array,0,array.length-1);
 console.log(newArray);
