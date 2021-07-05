@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        const p = new Promise((resolve,reject)=>{
+            // reject();
+            // console.log(Bbbb);
+            throw new Error("出错了！！！");
+        })
+        //思考：catch中的参数函数在什么时候被执行
+        //当promise的状态改为rejected时，被执行   或者是promise执行体出现错误的代码也会被执行
+        p.catch((reson)=>{
+            console.log("失败！"+reson)
+        })
+    </script>
+
+</body>
+</html>

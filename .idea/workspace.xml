@@ -29,6 +29,7 @@
       <recent name="E:\Code_project~~~~~~~\Js Code\Js-learning\Web API\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Code_project~~~~~~~\Js Code\Js-learning\面试常考\Promise" />
       <recent name="E:\Code_project~~~~~~~\Js Code\Js-learning\面试常考\flex布局" />
       <recent name="E:\Code_project~~~~~~~\Js Code\Js-learning\面试常考" />
       <recent name="E:\Code_project~~~~~~~\Js Code\Js-learning\相册练习" />
@@ -36,30 +37,6 @@
   </component>
   <component name="RunManager" selected="Node.js.箭头函数this指向问题.js">
     <configuration name="输出问题.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试常考/输出问题.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="选择.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/选择.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="快排.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/快排.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="原始值与引用值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/原始值与引用值.js" working-dir="$PROJECT_DIR$/4.作用域">
-      <method v="2" />
-    </configuration>
-    <configuration name="冒泡.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法类/排序类/冒泡.js" working-dir="$PROJECT_DIR$/算法类/排序类">
-      <method v="2" />
-    </configuration>
-    <configuration name="选择排序.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法类/排序类/选择排序.js" working-dir="$PROJECT_DIR$/算法类/排序类">
-      <method v="2" />
-    </configuration>
-    <configuration name="选择.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/选择.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="希尔排序.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法类/排序类/希尔排序.js" working-dir="$PROJECT_DIR$/算法类/排序类">
-      <method v="2" />
-    </configuration>
-    <configuration name="快排.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/快排.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="执行上下文与作用域.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/执行上下文与作用域.js" working-dir="$PROJECT_DIR$/4.作用域">
@@ -92,6 +69,9 @@
     <configuration name="执行上下文与作用域.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/执行上下文与作用域.js" working-dir="$PROJECT_DIR$/4.作用域">
       <method v="2" />
     </configuration>
+    <configuration name="选择.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/选择.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="对象的创建.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/对象/对象的创建.js" working-dir="$PROJECT_DIR$/对象">
       <method v="2" />
     </configuration>
@@ -116,7 +96,28 @@
     <configuration name="测试.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/测试.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="promise.html" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试常考/promise.html" working-dir="$PROJECT_DIR$/面试常考">
+    <configuration name="快排.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/快排.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="原始值与引用值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/原始值与引用值.js" working-dir="$PROJECT_DIR$/4.作用域">
+      <method v="2" />
+    </configuration>
+    <configuration name="冒泡.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法类/排序类/冒泡.js" working-dir="$PROJECT_DIR$/算法类/排序类">
+      <method v="2" />
+    </configuration>
+    <configuration name="选择排序.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法类/排序类/选择排序.js" working-dir="$PROJECT_DIR$/算法类/排序类">
+      <method v="2" />
+    </configuration>
+    <configuration name="选择.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/选择.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="希尔排序.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法类/排序类/希尔排序.js" working-dir="$PROJECT_DIR$/算法类/排序类">
+      <method v="2" />
+    </configuration>
+    <configuration name="快排.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/快排.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="promise.html" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试常考/Promise/promise.html" working-dir="$PROJECT_DIR$/面试常考">
       <method v="2" />
     </configuration>
     <configuration name="symbol.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/symbol.js" working-dir="$PROJECT_DIR$">
@@ -189,7 +190,8 @@
       <workItem from="1624716056433" duration="915000" />
       <workItem from="1624775827920" duration="5490000" />
       <workItem from="1624882355494" duration="2257000" />
-      <workItem from="1625018958091" duration="4314000" />
+      <workItem from="1625018958091" duration="5669000" />
+      <workItem from="1625452030222" duration="10138000" />
     </task>
     <servers />
   </component>

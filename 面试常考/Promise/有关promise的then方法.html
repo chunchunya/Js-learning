@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        new Promise((resolve,reject)=>{
+            resolve("成功1");
+        }).then((value)=>{
+            console.log("再次调用"+value);
+            // //使用return 可以将目前实例的状态改为fulfilled,如果不加return，那么下一个then方法将不会得到对应参数的结果
+            // return 88888;
+            //如果这里的代码出错，会将目前实例的状态改为rejected;
+            console.log(ddd);
+        },
+            (reson)=>{
+            console.log(1111);
+            }).then((value1)=>{
+                console.log(value1);
+        },
+            (reson1)=>{
+                console.log("调用失败啦！！"+reson1)
+            })
+    </script>
+
+</body>
+</html>
