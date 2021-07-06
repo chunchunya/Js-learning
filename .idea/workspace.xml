@@ -35,32 +35,11 @@
       <recent name="E:\Code_project~~~~~~~\Js Code\Js-learning\相册练习" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.箭头函数this指向问题.js">
+  <component name="RunManager" selected="Node.js.for循环方法.js">
     <configuration name="输出问题.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试常考/输出问题.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="执行上下文与作用域.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/执行上下文与作用域.js" working-dir="$PROJECT_DIR$/4.作用域">
-      <method v="2" />
-    </configuration>
-    <configuration name="宏任务微任务.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/宏任务微任务.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="插入.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/插入.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="原始值与引用值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/原始值与引用值.js" working-dir="$PROJECT_DIR$/4.作用域">
-      <method v="2" />
-    </configuration>
-    <configuration name="原始值与引用值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/原始值与引用值.js" working-dir="$PROJECT_DIR$/4.作用域">
-      <method v="2" />
-    </configuration>
-    <configuration name="函数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3.语言基础/函数.js" working-dir="$PROJECT_DIR$/3.语言基础">
-      <method v="2" />
-    </configuration>
-    <configuration name="语句.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3.语言基础/语句.js" working-dir="$PROJECT_DIR$/3.语言基础">
-      <method v="2" />
-    </configuration>
-    <configuration name="快排.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/快排.js" working-dir="$PROJECT_DIR$">
+    <configuration name="函数表达式声明函数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试常考/函数表达式声明函数.js" working-dir="$PROJECT_DIR$/面试常考">
       <method v="2" />
     </configuration>
     <configuration name="快排.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法类/排序类/快排.js" working-dir="$PROJECT_DIR$/算法类/排序类">
@@ -93,6 +72,9 @@
     <configuration name="堆的创建.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/堆/堆的创建.js" working-dir="$PROJECT_DIR$/堆">
       <method v="2" />
     </configuration>
+    <configuration name="执行上下文与作用域.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/执行上下文与作用域.js" working-dir="$PROJECT_DIR$/4.作用域">
+      <method v="2" />
+    </configuration>
     <configuration name="测试.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/测试.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -117,13 +99,31 @@
     <configuration name="快排.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/快排.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="宏任务微任务.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/宏任务微任务.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="插入.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/插入.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="原始值与引用值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/原始值与引用值.js" working-dir="$PROJECT_DIR$/4.作用域">
+      <method v="2" />
+    </configuration>
+    <configuration name="原始值与引用值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4.作用域/原始值与引用值.js" working-dir="$PROJECT_DIR$/4.作用域">
+      <method v="2" />
+    </configuration>
+    <configuration name="函数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3.语言基础/函数.js" working-dir="$PROJECT_DIR$/3.语言基础">
+      <method v="2" />
+    </configuration>
+    <configuration name="语句.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3.语言基础/语句.js" working-dir="$PROJECT_DIR$/3.语言基础">
+      <method v="2" />
+    </configuration>
+    <configuration name="快排.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/快排.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="for循环方法.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试常考/for循环方法.js" working-dir="$PROJECT_DIR$/面试常考">
+      <method v="2" />
+    </configuration>
     <configuration name="promise.html" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试常考/Promise/promise.html" working-dir="$PROJECT_DIR$/面试常考">
-      <method v="2" />
-    </configuration>
-    <configuration name="symbol.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/symbol.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="箭头函数this指向问题.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/箭头函数this指向问题.js" working-dir="$PROJECT_DIR$">
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.for循环方法.js" />
+        <item itemvalue="Node.js.函数表达式声明函数.js" />
         <item itemvalue="Node.js.箭头函数this指向问题.js" />
         <item itemvalue="Node.js.promise.html" />
         <item itemvalue="Node.js.输出问题.js" />
-        <item itemvalue="Node.js.test.js" />
-        <item itemvalue="Node.js.symbol.js" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +191,8 @@
       <workItem from="1624775827920" duration="5490000" />
       <workItem from="1624882355494" duration="2257000" />
       <workItem from="1625018958091" duration="5669000" />
-      <workItem from="1625452030222" duration="10138000" />
+      <workItem from="1625452030222" duration="10968000" />
+      <workItem from="1625574364400" duration="1890000" />
     </task>
     <servers />
   </component>
