@@ -35,8 +35,8 @@
       <recent name="E:\Code_project~~~~~~~\Js Code\Js-learning\相册练习" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.深拷贝浅拷贝.js">
-    <configuration name="输出问题.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试常考/输出问题.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.数组扁平化.js">
+    <configuration name="数组扁平化.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试常考/数组扁平化.js" working-dir="$PROJECT_DIR$/面试常考">
       <method v="2" />
     </configuration>
     <configuration name="深拷贝浅拷贝.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试常考/深拷贝浅拷贝.js" working-dir="$PROJECT_DIR$/面试常考">
@@ -123,22 +123,22 @@
     <configuration name="选择.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/选择.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="bind、call、apply的区别.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试常考/bind、call、apply的区别.js" working-dir="$PROJECT_DIR$/面试常考">
+      <method v="2" />
+    </configuration>
     <configuration name="for循环方法.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试常考/for循环方法.js" working-dir="$PROJECT_DIR$/面试常考">
       <method v="2" />
     </configuration>
-    <configuration name="promise.html" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试常考/Promise/promise.html" working-dir="$PROJECT_DIR$/面试常考">
-      <method v="2" />
-    </configuration>
-    <configuration name="箭头函数this指向问题.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/箭头函数this指向问题.js" working-dir="$PROJECT_DIR$">
+    <configuration name="手写map方法.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试常考/手写map方法.js" working-dir="$PROJECT_DIR$/面试常考">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.数组扁平化.js" />
+        <item itemvalue="Node.js.手写map方法.js" />
+        <item itemvalue="Node.js.bind、call、apply的区别.js" />
         <item itemvalue="Node.js.深拷贝浅拷贝.js" />
         <item itemvalue="Node.js.for循环方法.js" />
-        <item itemvalue="Node.js.箭头函数this指向问题.js" />
-        <item itemvalue="Node.js.promise.html" />
-        <item itemvalue="Node.js.输出问题.js" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +199,7 @@
       <workItem from="1625831943397" duration="2263000" />
       <workItem from="1625892361910" duration="186000" />
       <workItem from="1625992103707" duration="729000" />
-      <workItem from="1626661273653" duration="6850000" />
+      <workItem from="1626661273653" duration="25204000" />
     </task>
     <servers />
   </component>

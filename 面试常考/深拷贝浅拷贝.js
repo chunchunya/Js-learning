@@ -32,6 +32,8 @@ let deepCopy2 = (obj)=>{
     return copyObj;
 }
 
+//深拷贝还可以用JSON.parse(JSON.stringify(obj))  但是缺点是函数不拷贝，正则也不拷贝
+
 //浅拷贝
 let shallowCopy = (oldObj)=>{
     let newObj = {};
