@@ -35,11 +35,11 @@
       <recent name="E:\Code_project~~~~~~~\Js Code\Js-learning\相册练习" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.reduce.js">
-    <configuration name="数组扁平化.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试常考/数组扁平化.js" working-dir="$PROJECT_DIR$/面试常考">
+  <component name="RunManager" selected="Node.js.map的用法.js">
+    <configuration name="对象的创建.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试常考/对象的创建.js" working-dir="$PROJECT_DIR$/面试常考">
       <method v="2" />
     </configuration>
-    <configuration name="深拷贝浅拷贝.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试常考/深拷贝浅拷贝.js" working-dir="$PROJECT_DIR$/面试常考">
+    <configuration name="数组的一些方法.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试常考/数组的一些方法.js" working-dir="$PROJECT_DIR$/面试常考">
       <method v="2" />
     </configuration>
     <configuration name="对象的创建.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/对象/对象的创建.js" working-dir="$PROJECT_DIR$/对象">
@@ -123,22 +123,22 @@
     <configuration name="选择.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/选择.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="bind、call、apply的区别.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试常考/bind、call、apply的区别.js" working-dir="$PROJECT_DIR$/面试常考">
+    <configuration name="apply、call和bind的一些应用.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试常考/apply、call和bind的一些应用.js" working-dir="$PROJECT_DIR$/面试常考">
       <method v="2" />
     </configuration>
-    <configuration name="手写map方法.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试常考/手写map方法.js" working-dir="$PROJECT_DIR$/面试常考">
+    <configuration name="map的用法.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试常考/map的用法.js" working-dir="$PROJECT_DIR$/面试常考">
       <method v="2" />
     </configuration>
-    <configuration name="reduce.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试常考/reduce.js" working-dir="$PROJECT_DIR$/面试常考">
+    <configuration name="this的指向.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/面试常考/this的指向.js" working-dir="$PROJECT_DIR$/面试常考">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.reduce.js" />
-        <item itemvalue="Node.js.数组扁平化.js" />
-        <item itemvalue="Node.js.手写map方法.js" />
-        <item itemvalue="Node.js.bind、call、apply的区别.js" />
-        <item itemvalue="Node.js.深拷贝浅拷贝.js" />
+        <item itemvalue="Node.js.map的用法.js" />
+        <item itemvalue="Node.js.对象的创建.js" />
+        <item itemvalue="Node.js.数组的一些方法.js" />
+        <item itemvalue="Node.js.apply、call和bind的一些应用.js" />
+        <item itemvalue="Node.js.this的指向.js" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +199,7 @@
       <workItem from="1625831943397" duration="2263000" />
       <workItem from="1625892361910" duration="186000" />
       <workItem from="1625992103707" duration="729000" />
-      <workItem from="1626661273653" duration="31576000" />
+      <workItem from="1626661273653" duration="60233000" />
     </task>
     <servers />
   </component>
@@ -217,5 +217,29 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/面试常考/map的用法.js</url>
+          <line>18</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/面试常考/map的用法.js</url>
+          <line>17</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/面试常考/map的用法.js</url>
+          <line>21</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

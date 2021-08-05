@@ -1,6 +1,4 @@
 
-
-
 //手写map方法
 function map1(arr,callback){
     if(!Array.isArray(arr)||!arr.length||typeof callback !== 'function'){

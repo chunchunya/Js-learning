@@ -5,24 +5,24 @@ var TreeNode = (val)=>{
 }
 
 //递归方法
-// var traversal = (root)=>{
-//     if(root){
-//         // //先序
-//         // console.log(root);
-//         // traversal(root.left);
-//         // traversal(root.right);
-//
-//         // //中序
-//         // traversal(root.left);
-//         // console.log(root);
-//         // traversal(root.right);
-//
-//         //后序
-//         traversal(root.left);
-//         traversal(root.right);
-//         console.log(root);
-//     }
-// }
+var traversal = (root)=>{
+    if(root){
+        // //先序
+        // console.log(root);
+        // traversal(root.left);
+        // traversal(root.right);
+
+        // //中序
+        // traversal(root.left);
+        // console.log(root);
+        // traversal(root.right);
+
+        //后序
+        traversal(root.left);
+        traversal(root.right);
+        console.log(root);
+    }
+}
 
 //非递归方法
 //前序
