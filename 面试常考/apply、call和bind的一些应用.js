@@ -47,3 +47,8 @@ function isArray(array){
 
 console.log(isArray(m));
 
+//使用apply实现获取数组的最大最小值
+//因为Math.max()函数只能传入一组参数来求最大值，所以如果是要用于求一个数组中的最大值时，可以用Math.max.apply(Math,array),把this值指向Math对象，则第二个参数可以传入任意数组。
+let mmm = [4,2,8,5,3,9,5,1];
+console.log(Math.max.apply(Math,mmm));
+console.log(Math.min.apply(Math,mmm));

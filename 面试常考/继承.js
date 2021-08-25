@@ -42,7 +42,7 @@
 // console.log(m_child1.name);
 // console.log(m_child1.age);
 
-// //组合继承
+//组合继承
 // function S(name){
 //     this.name = name;
 //     this.colors = ['red','white','yellow']
@@ -57,13 +57,14 @@
 //
 //
 // S_child.prototype = new S();
-//
 // S_child.prototype.sayAge = function(){
 //     return this.age
 // }
 // let s_child1 = new S_child('zhangyuchun1',20);
-// s_child1.colors.push("pink");
-//
+// // s_child1.colors.push("pink");
+// console.log(s_child1);
+// console.log(s_child1.__proto__);
+
 // let s_child2 = new S_child('zhangyuchun2',30);
 //
 // console.log(s_child1.sayName());
@@ -91,3 +92,47 @@
 
 // 寄生式函数继承
 // 寄生式组合继承
+// function S(name){
+//     this.name = name;
+//     this.colors = ['red','white','yellow']
+// }
+// S.prototype.sayName = function(){
+//     return this.name;
+// }
+// function S_child(name,age){
+//     S.call(this,name);
+//     this.age = age;
+// }
+//
+//
+// // S_child.prototype = new S();
+// S_child.prototype = Object.create(S.prototype)
+// S_child.prototype.sayAge = function(){
+//     return this.age
+// }
+// let s_child1 = new S_child('zhangyuchun1',20);
+// // s_child1.colors.push("pink");
+// console.log(s_child1);
+// console.log(s_child1.__proto__)
+
+function Parent (name) {
+    this.name = name;
+    this.colors = ['red', 'blue', 'green'];
+}
+
+Parent.prototype.getName = function () {
+    console.log(this.name)
+}
+
+function Child (name, age) {
+    Parent.call(this, name);
+    this.age = age;
+}
+Child.prototype = Object.create(Parent.prototype)
+Child.prototype.nn = "sss"
+
+var child1 = new Child('kevin', '18');
+
+console.log(child1);
+console.log(child1.__proto__);
+

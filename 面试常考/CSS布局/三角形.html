@@ -8,12 +8,33 @@
     <title>Document</title>
 </head>
 <style>
+    /*方法一*/
+    /*.rectangle{*/
+    /*    height: 0;*/
+    /*    width: 0;*/
+    /*    border:300px solid transparent;*/
+    /*    border-bottom-color: #64bd63;*/
+    /*}*/
+
+    /*!*方法二*!*/
+    /*.rectangle{*/
+    /*    height: 0;*/
+    /*    width: 0;*/
+    /*    border: 50px solid transparent;*/
+    /*    border-bottom-color: red;*/
+    /*    border-top: none;*/
+    /*}*/
+
+    /*利用左右边框高度与上边框不同，则不能形成一个完整的border，*/
     .rectangle{
-        height: 0;
         width: 0;
-        border:300px solid transparent;
-        border-bottom-color: #64bd63;
+        height: 0;
+        border-top: 30px solid red;
+        border-left: 20px solid transparent;
+        border-right: 20px solid transparent;
     }
+
+
 </style>
 <body>
     <div class="rectangle"></div>
